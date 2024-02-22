@@ -119,3 +119,8 @@ void PrintArray(string[] array)
     }
     Console.Write("] ");
 }
+
+
+
+### Блок схемы 
+![fct](fct.png)
